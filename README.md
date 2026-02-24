@@ -79,7 +79,7 @@ Network_Monitoring_Toolkit/
 Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/lashya07/network_automation.git
 cd Network_Monitoring_Toolkit
 ```
 
