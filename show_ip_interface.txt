@@ -1,0 +1,8 @@
+GigabitEthernet0/0 is up, line protocol is up
+  Internet address is 192.168.1.1/24
+
+GigabitEthernet0/1 is administratively down, line protocol is down
+  Internet address is 10.0.0.1/24
+
+GigabitEthernet0/2 is up, line protocol is up
+  Internet address is 172.16.1.1/24
