@@ -1,4 +1,4 @@
-# 🌐 Network Monitoring Toolkit
+# 🌐 Network monitoring and automation Toolkit
 
 A modular, multi-device network monitoring and automation toolkit built using Python.
 
